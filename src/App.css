@@ -1,0 +1,48 @@
+.sideBar {
+  width: 18rem;
+  height: 3rem;
+  padding: 9px;
+  display: flex;
+  color: white;
+  border-radius: 7px;
+  align-items: center;
+}
+.sideBar i {
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  border-radius: 100%;
+  align-items: center;
+}
+.contact {
+  z-index: 0;
+}
+.friend-card {
+  width: 15rem;
+  height: 24rem;
+  margin-top: 10px;
+  border-radius: 0.375rem/* 6px */;
+  overflow: hidden;
+}
+.friend-card-img{
+  height: 15rem;
+}
+.friend-cardbtn {
+  height: 2rem;
+  margin: 1rem;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.375rem/* 6px */;
+}
+.videos{
+  width: 40rem;
+}
+.bg-neutral-950{
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
